@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&display=swap');
+
+:root {
+  --primary: #148041;
+  --primary-light: #e6f4ea;
+  --primary-dark: #235c34;
+  --secondary: #1a6ca8;
+  --background: #fdfdfd;
+  --background-light: #f9fafb;
+  --surface: #ffffff;
+  --text-dark: #1f2937;
+  --text-light: #6b7280;
+  --border: #eef1f5;
+  
+  /* Aliases for FarmerPortal.css */
+  --primary-color: var(--primary);
+  --border-color: var(--border);
+  --text-gray: var(--text-light);
+  
+  --shadow-sm: 0 2px 4px 0 rgb(0 0 0 / 0.02);
+  --shadow-md: 0 4px 12px 0 rgb(0 0 0 / 0.05);
+  --shadow-lg: 0 12px 24px -4px rgb(0 0 0 / 0.08);
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'Manrope', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+}
+
+body {
+  background-color: var(--background);
+  color: var(--text-dark);
+  -webkit-font-smoothing: antialiased;
+}
+
+button {
+  cursor: pointer;
+  border: none;
+  font-family: inherit;
+  font-weight: 700;
+  transition: all 0.2s ease;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+  transition: all 0.2s ease;
+}
+
+ul {
+  list-style: none;
+}
