@@ -5,8 +5,10 @@
 
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   [![React](https://img.shields.io/badge/React-20232a?style=flat&logo=react&logoColor=61dafb)](https://reactjs.org/)
-  [![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)](https://vitejs.dev/)
+  [![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)](https://vite.config.js/)
   [![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/)
+
+  ### 🔗 [View Live Demo](https://taskheer96.github.io/ArkaRisk/)
 </div>
 
 ---
@@ -16,7 +18,7 @@
 ArkaRisk bridges the gap between climate science and fintech. We empower smallholder farmers with real-time climate risk assessments while providing lenders with the data-driven intelligence needed to offer accessible micro-finance.
 
 <div align="center">
-  <img src="landing.png" width="800" alt="ArkaRisk Landing Page" />
+  <img src="landing.png" width="800" alt="ArkaRisk Landing Page" style="border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.1);" />
 </div>
 
 ## ✨ Key Features
@@ -26,6 +28,7 @@ ArkaRisk bridges the gap between climate science and fintech. We empower smallho
 - **🏦 Lender Intelligence**: A dedicated dashboard for financial institutions to evaluate portfolios and monitor climate exposure.
 - **📄 Professional Reports**: Generate and download high-fidelity PDF risk certificates for loan applications.
 - **🌱 Soil-to-Sky Data**: Integration of soil classification and 7-day weather forecasting for precise risk coefficients.
+- **⚡ Automated Deployment**: CI/CD integrated via GitHub Actions for seamless updates.
 
 ---
 
@@ -33,10 +36,10 @@ ArkaRisk bridges the gap between climate science and fintech. We empower smallho
 
 <div align="center">
   <p><strong>Step 2: Climate & Soil Profile</strong></p>
-  <img src="sc_step2.png" width="800" alt="Climate Profile" />
+  <img src="sc_step2.png" width="800" alt="Climate Profile" style="border-radius: 8px; border: 1px solid #eee;" />
   <br/><br/>
   <p><strong>Step 3: Composite Risk Score & Recommendation</strong></p>
-  <img src="sc_step3.png" width="800" alt="Risk Summary" />
+  <img src="sc_step3.png" width="800" alt="Risk Summary" style="border-radius: 8px; border: 1px solid #eee;" />
 </div>
 
 ---
@@ -51,8 +54,8 @@ ArkaRisk bridges the gap between climate science and fintech. We empower smallho
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/arkarisk-ai.git
-   cd arkarisk-ai
+   git clone https://github.com/taskheer96/ArkaRisk.git
+   cd ArkaRisk
    ```
 
 2. **Install dependencies**
