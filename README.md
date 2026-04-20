@@ -1,6 +1,6 @@
 <div align="center">
   <img src="./public/favicon.png" width="100" height="100" alt="ArkaRisk AI Logo" />
-  <h1>ArkaRisk AI</h1>
+  <h1>ArkaRisk</h1>
   <p><strong>Next-Gen Climate Resilience & Lending Intelligence for Smallholder Farmers</strong></p>
 
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -13,7 +13,7 @@
 
 ## 🌍 The Vision
 
-ArkaRisk AI bridges the gap between climate science and fintech. We empower smallholder farmers with real-time climate risk assessments while providing lenders with the data-driven intelligence needed to offer accessible micro-finance.
+ArkaRisk bridges the gap between climate science and fintech. We empower smallholder farmers with real-time climate risk assessments while providing lenders with the data-driven intelligence needed to offer accessible micro-finance.
 
 <div align="center">
   <img src="landing.png" width="800" alt="ArkaRisk Landing Page" />
